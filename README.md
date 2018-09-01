@@ -1,2 +1,2 @@
-# Guvi-Code-Kata
+# Code-Kata
 Guvi Project
