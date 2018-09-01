@@ -7,4 +7,4 @@ if ch in alphabets:
   else:
     print("Consonant")
 else:
-  print("Invalid Input")    
+  print("Invalid")    
