@@ -10,3 +10,4 @@ elif(c>a and c>b):
   print(c)
 else:
   print("Invalid")
+#Python3
