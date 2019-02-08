@@ -1,5 +1,4 @@
-a="hello \n"
-b=int(input())
-i=a*b
-print (i)
+a=int(input())
+for i in range(a):
+  print("Hello")
 #Python3
